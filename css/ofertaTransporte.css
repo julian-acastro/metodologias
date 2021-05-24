@@ -2,7 +2,6 @@ body {
   overflow: hidden;
   font-family: "Muli", sans-serif;
   font-weight: 300;
-  color: var(--primary);
 }
 
 .oferta_Card:hover {
@@ -16,4 +15,7 @@ body {
 .oferta_Card {
   font-size: 0.8rem;
   color: hsl(207, 84%, 33%);
+}
+#container {
+  min-height: 100%;
 }
