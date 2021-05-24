@@ -1,0 +1,12 @@
+.oferta_Card:hover {
+  background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+  transform: scale(1.03);
+  box-shadow: 0 5px 15px #340e8b91;
+  border: none;
+  text-decoration-color: azure;
+}
+
+.oferta_Card {
+  font-size: 0.8rem;
+  color: hsl(207, 84%, 33%);
+}
