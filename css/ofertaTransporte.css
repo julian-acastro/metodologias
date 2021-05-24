@@ -1,5 +1,4 @@
 body {
-  overflow: hidden;
   font-family: "Muli", sans-serif;
   font-weight: 300;
 }
@@ -16,6 +15,7 @@ body {
   font-size: 0.8rem;
   color: hsl(207, 84%, 33%);
 }
-#container {
-  min-height: 100%;
+.container {
+  height: 100vh;
+  overflow: hidden;
 }
