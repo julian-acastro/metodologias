@@ -16,6 +16,15 @@ body {
   color: hsl(207, 84%, 33%);
 }
 .container {
+  margin-top: 5vw;
   height: 100vh;
-  overflow: hidden;
+}
+.oferta-box {
+  position: fixed;
+  top: 5vw;
+  right: 0;
+}
+.lista-ofertas {
+  height: 90vm;
+  overflow-y: scroll;
 }

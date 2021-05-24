@@ -2,6 +2,11 @@
   font-family: "Montserrat", sans-serif;
   color: #8d97ad;
   font-weight: 300;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 5vw;
 }
 
 .header2.bg-success-gradiant {
