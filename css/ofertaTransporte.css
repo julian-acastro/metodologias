@@ -16,7 +16,7 @@ body {
   color: hsl(207, 84%, 33%);
 }
 .container {
-  margin-top: 5vw;
+  padding-top: 5vw;
   height: 100vh;
 }
 .oferta-box {
